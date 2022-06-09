@@ -1,0 +1,10 @@
+7893c7bd29f54d62a96e717674bbdac9
+
+https://newsapi.org/v2/everything?q=Apple&from=2021-11-29&sortBy=popularity&apiKey=API_KEY
+
+
+ https://newsapi.org/v2/everything -G \
+    -d q=Apple \
+    -d from=2021-11-29 \
+    -d sortBy=popularity \
+    -d apiKey=7893c7bd29f54d62a96e717674bbdac9
